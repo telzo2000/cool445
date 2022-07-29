@@ -14,7 +14,7 @@ You can choose either pro micro or raspberry pi pico to use.
 pro microかraspberry pi picoのどちらか一つを選んで使うことができます。
 <br><br>
 You can choose either choc switch or cherry mx switch to use.
-<br>
+<br><br>
 Chocスイッチか CHERRY MXスイッチのどちらか一つを選んで使うことができます。
 <br>
 <br>
@@ -31,7 +31,8 @@ cool450とTRRSケーブルで繋ぐことができます。
 cool445の左右好きな方に、cool640を置くことができます。
 <br>
 <br>
-
+It will be distributed on booth in the future, but you can freely use the data here and place an order with the PCB manufacturer.
+<br><br>
 将来、boothにて頒布しますが、ここにあるデータを自由に使い、各自がPCB製造元に発注しても構いません。
 <br><br>
 I do not take any responsibility for the data that you freely use.
