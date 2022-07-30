@@ -31,6 +31,10 @@ cool450とTRRSケーブルで繋ぐことができます。
 繋ぐことにより、cool445はテンキーマクロパッドを使うことができます。
 <br>
 cool445の左右好きな方に、cool640を置くことができます。
+
+![](img/img0002.jpg)
+
+
 <br>
 <br>
 It will be distributed on booth in the future, but you can freely use the data here and place an order with the PCB manufacturer.
