@@ -1,6 +1,8 @@
 # cool445
 ## What is cool445？
 
+![](img/img0001.jpg)
+
 cool445 is a 45-key keyboard.
 <br>
 The key layout is row staggered.
