@@ -60,6 +60,8 @@ Preparing now.
 <br>
 
 ## Firmware
-Preparing now.
-<br>
-ただいま準備中。
+PRK_FIRMWARE
+https://github.com/telzo2000/cool445/tree/main/PRK_FIRMWARE
+
+QMK_FIRMWARE
+https://github.com/telzo2000/cool445/tree/main/QMK_fimware
