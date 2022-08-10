@@ -52,9 +52,7 @@ Please use at your own risk.
 
 
 ## Build Guide
-Preparing now.
-<br>
-ただいま準備中。
+https://github.com/telzo2000/cool445/blob/main/buildguide_for_cool445.md
 
 
 <br>
