@@ -49,10 +49,14 @@
 ### 1 Parts check
 
 Front side（表面）
-
-![]()
+<br>
+Cool445 is written on the upper right of the PCB.
+<br>
+PCB右上にcool445と書かれています。
+<br>
 
 Back side（裏面）
+
 
 ![]()
 
