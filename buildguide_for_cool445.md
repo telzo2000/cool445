@@ -315,7 +315,7 @@ Prepare a switch plate, M2 spacer 3 mm（x６）, and M2 screw 6 mm（x６）.
 <br>
 スイッチプレート、M2スペーサー３mm（６本）、M2ネジ６mm（６本）を用意します。
 <br>
-Fix the screws in 4 places.
+Fix the screws in 6 places.
 <br>
 ネジを６箇所、固定します。
 <br>
@@ -332,7 +332,7 @@ Prepare a switch plate, M2 spacer 3 mm（x１２）, and M2 screw 8 mm（x６）
 <br>
 スイッチプレート、M2スペーサー３mm（１２本）、M2ネジ８mm（６本）を用意します。
 <br>
-Fix the screws in 4 places.
+Fix the screws in 6 places.
 <br>
 ネジを６箇所、固定します。
 <br>
