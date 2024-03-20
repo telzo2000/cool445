@@ -37,6 +37,12 @@
 
 
 ### 2 QMK_FIRMWARE
+
+
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
 [Here]([https://github.com/telzo2000/cool640/tree/main/firmware](https://github.com/telzo2000/cool445/tree/main/QMK_fimware)
 
 <br>
